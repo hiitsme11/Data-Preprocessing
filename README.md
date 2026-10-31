@@ -51,4 +51,4 @@ Yuvaintern_Week1_Student_Performance/
 ```
 
 ## Important learning note
-The goal is to demonstrate preprocessing steps, not to claim that a predictive model has been trained. Model training is covered in Week 2.
+The goal is to demonstrate preprocessing steps, not to claim that a predictive model has been trained. 
